@@ -68,14 +68,15 @@ Me destaco por mi **comunicación directa**, el aporte constante de **ideas crea
 | :--- | :--- |
 | 🎓 **Formación** | Último año de Ingeniería en Informática — Consolidando fundamentos teóricos con aplicación práctica. |
 | 🏗️ **Emprendimiento** | • **Co-fundador de EduFlow:** Gestión académica universitaria.<br>• **Co-fundador de SugarCheck:** App para el seguimiento y control de personas con Diabetes Tipo 1.<br>• **Co-fundador de SmartShark:** Soluciones tecnológicas y automatización. |
-| 📚 **Aprendizaje** | Actualización constante en arquitecturas modernas, NestJS y Agentes de Inteligencia Artificial. |
+| 📚 **Aprendizaje** | Actualización constante. |
 
 ---
 
 ## 🧠 Habilidades Clave
 
-* 🏆 **Liderazgo Técnico:** Guía de equipos en proyectos socio-tecnológicos, facilito la comunicación entre el diseño UI/UX y el desarrollo backend, y fomento buenas prácticas de código e integración de herramientas de IA.
+* 🏆 **Liderazgo Técnico:** Guía de equipos en proyectos socio-tecnológicos, facilito la comunicación entre el diseño UI/UX y el desarrollo frontend y backend, y fomento buenas prácticas de código e integración de herramientas de IA.
 * 🏗️ **Arquitectura:** Diseño de aplicaciones Full-Stack con arquitectura limpia (*Clean Architecture*), organización de bases de datos relacionales (PostgreSQL/MySQL), diseño de APIs RESTful y estructuración de flujos de automatización.
+* 🌐 **Redes (Nivel Básico/Intermedio):** Fundamentos de networking, configuración y simulación en Cisco Packet Tracer.
 * 💬 **Soft Skills:** Comunicación directa y efectiva, resolución colaborativa de problemas, pensamiento crítico, adaptabilidad rápida y alta disciplina.
 
 ---
