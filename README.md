@@ -60,6 +60,8 @@ Me destaco por mi **comunicación directa**, el aporte constante de **ideas crea
 ### 🌍 Intereses & Hobbies
 ⚽ Deportes (Fútbol, Natación, Gym) • 🎮 Videojuegos • 🎵 Música • 🎬 Documentales, curiosidades y culturas del mundo.
 
+---
+
 ```javascript
 const joseGabriel = {
   status: "🎓 Estudiante de Ingeniería en Informática (Trayecto IV - UPTAMCA)",
