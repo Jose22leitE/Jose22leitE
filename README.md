@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>⚡ ¡Hola! Soy José Gabriel Leite 🚀</h1>
+  <h1>⚡ ¡Hola! Soy José Gabriel Leite De Ponte 🚀</h1>
 
   <h3><i>"Si lo puedes imaginar, lo puedes programar; nunca es tarde para aprender."</i></h3>
 
