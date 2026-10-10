@@ -9,7 +9,7 @@
   </p>
 
   <!-- Badges de Estado / Rol -->
-  <a href="https://linkedin.com/in/jose-gabriel-leite-de-ponte">
+  <a href="www.linkedin.com/in/josé-gabriel-leite-de-ponte-a8b2a2338">
     <img src="https://img.shields.io/badge/LinkedIn-Jose_Gabriel_Leite-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:josetech2203@gmail.com">
